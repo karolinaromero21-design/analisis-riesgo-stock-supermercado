@@ -1,0 +1,17 @@
+# Credenciales y configuración local
+*.env
+config.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos temporales de Power BI
+*.pbix.bak
+~$*.pbix
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

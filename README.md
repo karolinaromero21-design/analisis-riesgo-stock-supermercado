@@ -97,10 +97,7 @@ El proyecto sigue las 4 capas de analítica de datos:
 
 ## 📸 Vista previa del dashboard
 
-<!-- Reemplazar por las capturas reales -->
-| Riesgo de Stock | Performance Comercial |
-|---|---|
-| ![Riesgo de Stock](powerbi/capturas/Captura de pantalla Riesgo de Stock.png) | ![Performance Comercial](powerbi/capturas/Captura de pantalla Perfomance Comercial.png) |
+![Riesgo de Stock](powerbi/capturas/riesgo_de_stock.png) | ![Performance Comercial](powerbi/capturas/performance_comercial.png)
 
 ## 📚 Aprendizajes del proyecto
 

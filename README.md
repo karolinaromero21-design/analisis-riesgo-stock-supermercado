@@ -115,4 +115,4 @@ El proyecto sigue las 4 capas de analítica de datos:
 
 ---
 
-**Autor/a:** [Tu nombre] · Diplomatura en Gestión y Analítica de Datos
+**Autor/a:Karolina Romero· Diplomatura en Gestión y Analítica de Datos
